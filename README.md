@@ -1,4 +1,5 @@
 # NYC Taxi Transportation Optimization
+![image](https://user-images.githubusercontent.com/102454617/233381160-fb86597a-b159-4b80-a8c2-9c244bee7e8b.png)
 
 This project presents an optimization strategy for New York City taxis by considering historical data. The aim of the strategy is to increase the earnings of taxi drivers by allocating taxis depending on location and time so more passengers can be transported.
 
