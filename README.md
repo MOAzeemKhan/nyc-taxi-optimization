@@ -41,9 +41,9 @@ To run the web application:
 ## Contributors
 
 This project was developed by:
-1) [Harsh Ahire](https://www.linkedin.com/in/harsh-ahire-ba821122b/)
-2) [Shwetha Iyer](https://www.linkedin.com/in/s-shwetha-iyer-5aa5791aa/)
-3) [Mohammed Azeem Khan](https://www.linkedin.com/in/mohammed-azeem-khan/)
+1) [Mohammed Azeem Khan](https://www.linkedin.com/in/mohammed-azeem-khan/) 
+2) [Harsh Ahire](https://www.linkedin.com/in/harsh-ahire-ba821122b/)
+3) [Shwetha Iyer](https://www.linkedin.com/in/s-shwetha-iyer-5aa5791aa/)
 4) [Rishabh Kinhikar](https://www.linkedin.com/in/rishabh-kinhikar-61130113a/)
 5) [Daivik Jayan Mampally](https://www.linkedin.com/in/daivik-jayan-65ba57224/)
 6) [Jhalak Mishra](https://www.linkedin.com/in/jhalak-mishra-94594525a/)
