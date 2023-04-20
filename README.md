@@ -42,8 +42,8 @@ To run the web application:
 ### Requirements
 The program requires two input excel files in order to function properly:
 
-1) A demand excel file containing the demand data with column headers "Pick up location" and "Demand".
-2) A cost excel file containing the cost matrix with no column or row headers. The order of the rows and columns should correspond to the order of the supply nodes and demand nodes in the demand excel file.
+1) A [demand excel file](https://github.com/MOAzeemKhan/nyc-taxi-optimization/blob/main/Cost_Matrix_Supply_Demand_Only_.xlsx) containing the demand data with column headers "Pick up location" and "Demand".
+2) A [cost excel file]()https://github.com/MOAzeemKhan/nyc-taxi-optimization/blob/main/Cost_Matrix_Only.xlsx containing the cost matrix with no column or row headers. The order of the rows and columns should correspond to the order of the supply nodes and demand nodes in the demand excel file.
 
 ## Contributors
 
