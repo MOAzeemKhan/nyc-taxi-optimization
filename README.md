@@ -57,6 +57,17 @@ Contributions to this project are welcome. To contribute, follow these steps:
 4) Push your changes to your fork.
 5) Create a pull request to this repository.
 
+## Files
+
+The following files are available in a [Google Drive folder](https://drive.google.com/drive/folders/1tlOaI-7mzUxnzjBS_ftPhVkUDGYqoUK9?usp=sharing):
+
+1) **Project Report** - a detailed report on the project
+2) **Screenshot Of QM** - a screenshot of the optimization model created in QM software
+3) **Profit and Cost Matrix** - an Excel file containing the profit and cost matrix data used in the optimization
+4) **Excel Solving file** - an Excel file used to solve the optimization problem using the Solver add-in in Excel
+
+Note that you will need to request access to the Google Drive folder to download these files.
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/MOAzeemKhan/nyc-taxi-optimization/blob/main/License) file for details.
