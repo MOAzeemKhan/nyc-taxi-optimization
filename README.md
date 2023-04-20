@@ -2,6 +2,13 @@
 
 This project presents an optimization strategy for New York City taxis by considering historical data. The aim of the strategy is to increase the earnings of taxi drivers by allocating taxis depending on location and time so more passengers can be transported.
 
+## Getting Started
+
+This repository contains the code for the NYC Taxi Transportation Optimization Problem. To get started, clone the repository to your local machine.
+```
+git clone 
+```
+
 ## Dataset Details
 
 The dataset used in this project is the New York City Taxi and Limousine Commission (TLC) Trip Record Data. The dataset provides information on taxi trips in New York City, including pickup and dropoff locations, trip distance, fare amount, and more. The data is available on the TLC website: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
@@ -18,4 +25,10 @@ To run the web application:
     
 ## Contributors
 
-This project was developed by R001, R023, R032, R033, R036, and R038.
+This project was developed by:
+1) Harsh Ahire:
+2) Shwetha Iyer:
+3) Mohammed Azeem Khan
+4) Rishabh Kinhikar
+5) Daivik Jayan Mampally
+6) Jhalak Mishra
