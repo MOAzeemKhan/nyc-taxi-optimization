@@ -37,7 +37,13 @@ To run the web application:
  python app.py
  ```
 3) Navigate to http://localhost:5000/ in a web browser to use the application
-    
+
+### Requirements
+The program requires two input excel files in order to function properly:
+
+1) A demand excel file containing the demand data with column headers "Pick up location" and "Demand".
+2) A cost excel file containing the cost matrix with no column or row headers. The order of the rows and columns should correspond to the order of the supply nodes and demand nodes in the demand excel file.
+
 ## Contributors
 
 This project was developed by:
